@@ -1,5 +1,5 @@
 # Set up a static IP address on Ubuntu
-Instructions on how to set up a static IP address on Ubuntu. This post is assisted by ChatGTP. 
+Instructions on how to set up a static IP address on Ubuntu. This post was created with assistance of ChatGPT. 
 
 ## Setting a static IP address on Ubuntu using `/etc/network/interfaces`:
 
